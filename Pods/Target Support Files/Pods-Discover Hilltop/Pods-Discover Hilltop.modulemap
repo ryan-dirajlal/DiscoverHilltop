@@ -1,0 +1,6 @@
+framework module Pods_Discover_Hilltop {
+  umbrella header "Pods-Discover Hilltop-umbrella.h"
+
+  export *
+  module * { export * }
+}

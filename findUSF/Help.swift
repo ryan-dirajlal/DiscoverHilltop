@@ -19,7 +19,7 @@ struct Help: View {
                         Text("Hilltop Map allows you to experience an interactive map to learn about the hilltop area and where buildings are located.")
                         Text("Click on any picture in the map to learn more about the facts and history of any building!")
                         Text("To see acknowledgments, please tap on Sources.")
-                        Text("Coming Soon: Search Bar, ability to sort Discover list, more buildings, higher quality photos, more photos of each building, neighborhood parks, video support, and a virtual guided tour!")
+                        Text("Coming Soon: Multiple photos for each image, ability to sort Discover Page by category, ability to share images, and more buildings. Stay tuned for an exciting announcement regarding Discover Hilltop's future!")
                                 .foregroundColor(.black)}
                     .navigationTitle("Help")
         

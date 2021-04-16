@@ -26,7 +26,7 @@ struct acknowledgments: View {
                         Text("Discover Hilltop")
                             .font(.subheadline)
                             .fontWeight(.semibold)
-                        Text("Version 1.0")
+                        Text("Version 1.1")
                         
                     }
                     

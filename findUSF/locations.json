@@ -7,7 +7,7 @@
         "more": "Gillson Hall is on Golden Gate Avenue, and it is within walking distance to two of the city's largest bus routes. It is also adjacent to Hayes-Healy Hall and Memorial Gym, and it is a quick walk from University Center, which houses the cafeteria. It also includes WiFi, 24-hour desk service, one large student lounge, floor lounges, a laundry room, a kitchen, TVs in the lounges, foosball tables, and a piano.",
         "latitude": 37.7765,
         "longitude": -122.4489,
-        "heroPicture": "gillson",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114792461-44eed200-9d3d-11eb-8094-25b076d303d8.jpg",
         "pictures": ["gillson", "gillson", "gillson", "gillson"],
         "advisory": "Residents and Guests over 18"
     },
@@ -19,7 +19,7 @@
         "more": "Hayes-Healy Hall is able to house 400 students, but it is one floor taller than Gillson Hall. The building takes advantage of the extra space by adding an extra lounge and an entire floor dedicated to laundry. The university's USPS is also attached to the bottom of the residence hall. Hayes-Healy also includes 24-hour front desk service, WiFi throughout the building, a large kitchen, TVs in each lounge, a pool table, a ping pong table, and a piano.",
         "latitude": 37.7770,
         "longitude": -122.4487,
-        "heroPicture": "HayesHealy",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114792519-6485fa80-9d3d-11eb-9d73-f5b2c9770092.jpg",
         "pictures": ["HayesHealy"],
         "advisory": "Residents and Guests over 18"
     },
@@ -31,7 +31,7 @@
         "more": "Benedetti Field sits on top of what was historically a Masonic cemetery. While under construction, the construction company had to stop work in order to remove the caskets, as they kept digging up bodies while working. Many people say this is one of the reasons USF is haunted, and you can supposedly hear ghosts while alone at night in Lone Mountain.",
         "latitude": 37.7769,
         "longitude": -122.4477,
-        "heroPicture": "BaseballField",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114792584-7ebfd880-9d3d-11eb-87ea-71b5c513603a.jpg",
         "pictures": ["BaseballField"],
         "advisory": "Students or Paid Visitors"
     },
@@ -43,7 +43,7 @@
         "more": "War Memorial Gym is directly across from the University Center, where students can find food before coming to see the games. It is also home to the city's only division one men's basketball team, and tickets for fans frequently sell out--especially when playing against the Zags.",
         "latitude": 37.7769,
         "longitude": -122.4495,
-        "heroPicture": "WarMemorial",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114792635-9303d580-9d3d-11eb-9bbf-c1d022084ba7.jpg",
         "pictures": ["WarMemorial"],
         "advisory": "Students, Athletes, and Paid Visitors"
     },
@@ -55,7 +55,7 @@
         "more": "The University Center is commonly referred to as UC. It boasts 5 floors, making it one of the tallest buildings on campus. This is the place most students spend their time outside the classroom, as it includes offices, lounges, and more student amenities.",
         "latitude": 37.7766,
         "longitude": -122.4503,
-        "heroPicture": "UC",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114799928-956e2b80-9d4d-11eb-8a9a-61430f7c1edb.jpg",
         "pictures": ["UC"],
         "advisory": "Students and Visitors"
     },
@@ -67,7 +67,7 @@
         "more": "If you apply to be a Resident Advisor in the residence halls, you will likely have your interview in this building! McLaren is also located at the bottom of Toler Hall across from the University Center",
         "latitude": 37.7760,
         "longitude": -122.4497,
-        "heroPicture": "mcClaren",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114799999-b9317180-9d4d-11eb-9103-b6c73d98c2f4.jpg",
         "pictures": ["mcClaren"],
         "advisory": "Students and Visitors"
     },
@@ -79,7 +79,7 @@
         "more": "Toler was originally named Phelan Hall, after the former mayor of San Francisco. It was changed to Toler, however, after a group of students boycotted the name following the news that Phelan often made racist comments. Additionally, Toler originally housed the book store and dining room, which have both since moved to the UC. ",
         "latitude": 37.7761,
         "longitude": -122.4501,
-        "heroPicture": "Toler",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114800047-cf3f3200-9d4d-11eb-9526-c1252ea725ca.jpg",
         "pictures": ["Toler"],
         "advisory": "Residents and Guests over 18"
     },
@@ -91,7 +91,7 @@
         "more": "Malloy Hall was recently renovated to create more classrooms, faculty offices, computer labs, and study spaces. Also, if you ever want boba on camus, make sure to check out Malloy! You will often find different clubs selling boba for their fundraising efforts.",
         "latitude": 37.7756,
         "longitude": -122.4499,
-        "heroPicture": "malloy",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114800211-204f2600-9d4e-11eb-82a1-16ef0a5a650b.jpg",
         "pictures": ["malloy"],
         "advisory": "Students"
     },
@@ -103,7 +103,7 @@
         "more": "For a space on campus away from the rush, be sure to visit the third floor rooftop, where you will find a featured outdoor sculpture terrace with varying exhibits. Outside the main entrance is the K-Hall Amphitheater which houses a Renaissance-era church portal from the Spanish monastery. Around the amphitheater also includes heated seats so students can enjoy performances, even in the foggy weather of San Francisco.",
         "latitude": 37.7756,
         "longitude": -122.4510,
-        "heroPicture": "kalminovitz",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114800254-39f06d80-9d4e-11eb-9482-a813ac5db73a.jpg",
         "pictures": ["kalminovitz"],
         "advisory": "Students"
     },
@@ -115,7 +115,7 @@
         "more": "Cowell is another of USF's oldest buildings, and it is connected to Kalmanovitz Hall. It also sits directly across from Lo Schiavo.",
         "latitude": 37.7760,
         "longitude": -122.4507,
-        "heroPicture": "cowell",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114786587-369bb880-9d33-11eb-8fb4-2fdad0748895.jpg",
         "pictures": ["cowell"],
         "advisory": "Students"
     },
@@ -127,7 +127,7 @@
         "more": "Lo Schiavo is a smart building; it senses the weather and interior climate, and it opens and closes the windows/blinds accordingly--all automatically. There is also an atrium, plaza, and living roof for students to enjoy the sun while studying.",
         "latitude": 37.7762,
         "longitude": -122.4510,
-        "heroPicture": "LoSchiavo",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114791432-6a7adc00-9d3b-11eb-8102-b566a9d0fc88.jpg",
         "pictures": ["LoSchiavo"],
         "advisory": "Students"
     },
@@ -139,7 +139,7 @@
         "more": "The soccer field is connected to USF's Koret Gymnasium, which has the largest indoor swimming pool in the entire city!",
         "latitude": 37.7764,
         "longitude": -122.4539,
-        "heroPicture": "soccerField",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114800344-673d1b80-9d4e-11eb-9b68-97ef54819b9e.jpg",
         "pictures": ["soccerField"],
         "advisory": "Students and Paid Visitors"
     },
@@ -151,7 +151,7 @@
         "more": "Harney is one the oldest science building on campus, but it is currently undergoing rennovations for the newly established engineering program! Coming to Harney includes the Hive on the first floor, which will house a 3D Printer, state-of-the-art engineering tools, and more! Harney is also attached to Lo Schiavo.",
         "latitude": 37.7768,
         "longitude": -122.4512,
-        "heroPicture": "harney",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114800397-7f149f80-9d4e-11eb-9b08-b48fdc439fb3.jpg",
         "pictures": ["harney"],
         "advisory": "Students"
     },
@@ -163,7 +163,7 @@
         "more": "Gleeson Library also houses a rotatating art exhibit, a Rare Books collection room, and over 5,000 square feet of open space for quiet study.",
         "latitude": 37.7765,
         "longitude": -122.4520,
-        "heroPicture": "gleeson",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114800432-93f13300-9d4e-11eb-9c73-b93fb216680e.jpg",
         "pictures": ["gleeson"],
         "advisory": "Students"
     },
@@ -175,7 +175,7 @@
         "more": "If you walk by on a weekend, you might mistake the plaza for a dog park! People from all over the neighborhood often bring their dogs to visit and play in the grass.",
         "latitude": 37.7756,
         "longitude": -122.4518,
-        "heroPicture": "plaza",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114800468-a4a1a900-9d4e-11eb-95ca-636ffead02fb.jpg",
         "pictures": ["plaza"],
         "advisory": "Students and all Visitors"
     },
@@ -187,7 +187,7 @@
         "more": "After the 1906 earthquake, the original location of USF was completely destroyed. After digging through the rubble, however, they discovered the original church bell remained intact. They salvaged the bell, and that is the same church bell students can hear ringing every day at the top of each hour, and it is the only remanent of USF's original campus.",
         "latitude": 37.7756,
         "longitude": -122.4525,
-        "heroPicture": "stIggy",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114800504-b2572e80-9d4e-11eb-84cd-7ff991100651.jpg",
         "pictures": ["stIggy"],
         "advisory": "Students and all Churchgoers"
     },
@@ -199,7 +199,7 @@
         "more": "On the west side, residents have a beautiful view of Golden Gate Park (which is 20% larger than New York's Central Park!) and the Pacific Ocean.",
         "latitude": 37.7763,
         "longitude": -122.4527,
-        "heroPicture": "fromm",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114800544-c438d180-9d4e-11eb-9544-743c070e4b99.jpg",
         "pictures": ["fromm"],
         "advisory": "Students, Guests above 18, and event attendees"
     },
@@ -211,7 +211,7 @@
         "more": "The studio includes a wide range of media, from frawing, printmaking, digital fabrication, and more! It is designed to allow the students to experience as much hands-on work as possible.",
         "latitude": 37.7767,
         "longitude": -122.4529,
-        "heroPicture": "xArts",
+        "heroPicture": "https://user-images.githubusercontent.com/61028954/114800594-d7e43800-9d4e-11eb-84f3-a5c1ac71b811.jpg",
         "pictures": ["xArts"],
         "advisory": "Students"
     },

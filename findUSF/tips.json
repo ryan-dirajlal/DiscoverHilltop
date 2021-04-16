@@ -65,5 +65,15 @@
             }
         ]
     },
-	
+
+    {
+        "text": "How old is USF?",
+        "children": [
+            {
+                "text": "The University of San Francisco is over 100 years old! It was founded in 1855 in a small building on Market Street of downtown San Francisco. After the 1906 earthquake which destroyed the campus, it moved west next to Golden Gate Park, which remains its current location. "
+            }
+        ]
+    },
+
+    
 ]
